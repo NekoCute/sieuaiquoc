@@ -70,9 +70,6 @@ function WH()
 			      ["author"] = {
 			        ["name"] = "Mystic Farmer - Stats"
 			      }
-			       ["footer"] = {
-          				  ["text"] = "Skill issue ? Get good bozo"
-       				 }
 			    }
 			  }
 			  }
