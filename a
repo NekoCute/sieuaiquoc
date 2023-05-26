@@ -59,7 +59,7 @@ function WH()
             ["embeds"] = {
 			    {
 			      ["title"] = "Server Hop Stat Update",
-			      ["description"] = "Successfully Broke Everything In Server. Hopping To New Server!",
+			      ["description"] = "Phát hiện có con chó bucki tranh gems farm, đang nhảy server khác...",
 			      ["color"] = 5814783,
 			      ["fields"] = {
 			        {
